@@ -1,5 +1,5 @@
 # 🛠️ HacksTool v1.0
-**HacksTool** es una suite de simulación de penetración y recolección de información diseñada para entusiastas de la ciberseguridad.
+**HacksTool** es una suite de penetración y recolección de información diseñada para entusiastas de la ciberseguridad. No está diseñada para uso explícito, más bien es para pruebas a tus propios sitios para ver si tienen seguridad y si son vulnerables poder mejorar la seguridad.
 
 ## ✨ Características
 - 🔍 **Domain Info:** Análisis de cabeceras y servidores.
