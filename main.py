@@ -22,7 +22,7 @@ def menu():
     print(f"{Fore.WHITE}[01] {Fore.GREEN}Obtener información de dominio")
     print(f"{Fore.WHITE}[02] {Fore.GREEN}Obtener información de IP")
     print(f"{Fore.WHITE}[03] {Fore.GREEN}Escaneo de puertos")
-    print(f"{Fore.WHITE}[04] {Fore.GREEN}Ataque de fuerza bruta (Simulado)")
+    print(f"{Fore.WHITE}[04] {Fore.GREEN}Ataque de fuerza bruta")
     print(f"{Fore.WHITE}[00] {Fore.RED}Salir")
     print("\n")
     
